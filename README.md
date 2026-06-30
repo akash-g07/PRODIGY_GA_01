@@ -16,3 +16,8 @@ This project uses the Hugging Face `transformers` library to fine-tune a pre-tra
 - Hugging Face Transformers
 
 ### Project Structure
+### Installation
+```bash
+git clone https://github.com/akash-g07/PRODIGY_GA_01.git
+cd Text-Generation-with-GPT-2
+pip install -r requirements.txt
